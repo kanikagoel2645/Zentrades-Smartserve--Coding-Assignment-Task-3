@@ -25,3 +25,10 @@ This HTML file provides a simple user authentication form with specific function
 - The username field checks if the entered value follows the email format.
 - The password field masks the input to enhance security.
 - Password validation ensures the inclusion of at least one uppercase letter, one number, and disallows special characters except for @
+- 
+![Screenshot (811)](https://github.com/kanikagoel2645/Zentrades-Smartserve--Coding-Assignment-Task-3/assets/111144171/eb9201c3-7930-4691-bd9e-1e353effc143)
+
+![Screenshot (812)](https://github.com/kanikagoel2645/Zentrades-Smartserve--Coding-Assignment-Task-3/assets/111144171/6ad412b0-d93d-4c69-941c-3e3580abf9fb)
+
+
+![Screenshot (813)](https://github.com/kanikagoel2645/Zentrades-Smartserve--Coding-Assignment-Task-3/assets/111144171/2aae0e09-1a1b-4698-85a7-489030d4ec21)
